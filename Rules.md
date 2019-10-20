@@ -17781,6 +17781,10 @@ func foo()↓ -> () {}
 ```
 
 ```swift
+func foo()↓ -> ( ) {}
+```
+
+```swift
 protocol Foo {
   func foo()↓ -> ()
 }
